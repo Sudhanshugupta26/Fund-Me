@@ -16,7 +16,7 @@ contract FundMeTest is Test {
     function testMinimumUsdIsFive() public {
         assertEq(fundme.MINIMUM_USD(), 5 * 10 ** 18);
         /*What it's used for:
-            Compares two values and checks if they are equal    
+            Compares two values and checks if they are equal
             If the values match, the test passes
             If the values don't match, the test fails and prints an error message showing both values */
     }
