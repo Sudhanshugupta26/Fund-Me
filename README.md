@@ -18,8 +18,8 @@ This project serves as an educational example of how to build, test, and deploy 
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your-username/fund-me
-   cd fund-me
+   git clone https://github.com/Sudhanshugupta26/Fund-Me
+   cd Fund-Me
    ```
 
 2. Install dependencies:
